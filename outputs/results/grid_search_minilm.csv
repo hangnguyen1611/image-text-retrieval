@@ -1,0 +1,13 @@
+LEARNING_RATE,TEMPERATURE,HARD_NEG_WEIGHT,val_R@1,time_sec,exp_name
+0.001,0.07,0.3,24.4,128.6,minilm__lr=1e-03__temp=0.07__hard_neg=0.3
+0.001,0.1,0.3,24.3,111.0,minilm__lr=1e-03__temp=0.1__hard_neg=0.3
+0.001,0.07,0.2,24.2,113.9,minilm__lr=1e-03__temp=0.07__hard_neg=0.2
+0.0005,0.07,0.2,24.2,113.3,minilm__lr=5e-04__temp=0.07__hard_neg=0.2
+0.0005,0.07,0.3,23.9,114.0,minilm__lr=5e-04__temp=0.07__hard_neg=0.3
+0.001,0.1,0.2,23.6,114.5,minilm__lr=1e-03__temp=0.1__hard_neg=0.2
+0.0003,0.07,0.3,23.4,113.1,minilm__lr=3e-04__temp=0.07__hard_neg=0.3
+0.0003,0.07,0.2,22.9,120.0,minilm__lr=3e-04__temp=0.07__hard_neg=0.2
+0.0003,0.1,0.2,22.8,114.6,minilm__lr=3e-04__temp=0.1__hard_neg=0.2
+0.0005,0.1,0.3,22.7,114.5,minilm__lr=5e-04__temp=0.1__hard_neg=0.3
+0.0003,0.1,0.3,22.2,115.4,minilm__lr=3e-04__temp=0.1__hard_neg=0.3
+0.0005,0.1,0.2,22.2,113.7,minilm__lr=5e-04__temp=0.1__hard_neg=0.2

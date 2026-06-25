@@ -1,0 +1,23 @@
+{
+  "cnn_gru": [
+    {
+      "path": "/content/drive/MyDrive/project/outputs/checkpoints/cnn_gru_20260612_205949.pth",
+      "created": "2026-06-12 20:59:49",
+      "val_r1": 24.0
+    }
+  ],
+  "cnn_lstm": [
+    {
+      "path": "/content/drive/MyDrive/project/outputs/checkpoints/cnn_lstm_20260612_213624.pth",
+      "created": "2026-06-12 21:36:24",
+      "val_r1": 23.3
+    }
+  ],
+  "cnn_minilm": [
+    {
+      "path": "/content/drive/MyDrive/project/outputs/checkpoints/cnn_minilm_20260612_221139.pth",
+      "created": "2026-06-12 22:11:39",
+      "val_r1": 30.2
+    }
+  ]
+}
